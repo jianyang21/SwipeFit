@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "6866289111490d2e60697c83"
+  },
+  "title": "LONG-SLEEVED JERSEY TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c84"
+  },
+  "title": "PRINTED T-SHIRT",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c85"
+  },
+  "title": "PRINTED T-SHIRT",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c86"
+  },
+  "title": "MICROFIBRE VEST TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c87"
+  },
+  "title": "LONG-SLEEVED JERSEY TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c88"
+  },
+  "title": "RIBBED T-SHIRT",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c89"
+  },
+  "title": "COTTON VEST TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c8a"
+  },
+  "title": "LONG-SLEEVED JERSEY TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289111490d2e60697c8b"
+  },
+  "title": "COTTON T-SHIRT",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:01.951Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c8c"
+  },
+  "title": "RIBBED VEST TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c8d"
+  },
+  "title": "LEATHER VEST TOP",
+  "price": "Rs.13,499.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c8e"
+  },
+  "title": "FINE-KNIT T-SHIRT",
+  "price": "Rs.1,499.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c8f"
+  },
+  "title": "BALLERINA-NECKLINE TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c90"
+  },
+  "title": "STUDDED STRAPPY TOP",
+  "price": "Rs.1,899.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c91"
+  },
+  "title": "FRILL-TRIMMED COTTON VEST TOP",
+  "price": "Rs.1,699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c92"
+  },
+  "title": "LONG WAISTCOAT",
+  "price": "Rs.3,299.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.155Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c93"
+  },
+  "title": "LONG SUIT WAISTCOAT",
+  "price": "Rs.1,999.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c94"
+  },
+  "title": "COTTON T-SHIRT",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.202Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c95"
+  },
+  "title": "THONG BODY",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c96"
+  },
+  "title": "ONE-SHOULDER TOP",
+  "price": "Rs.999.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c97"
+  },
+  "title": "BALLOON-SLEEVED TOP",
+  "price": "Rs.999.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c98"
+  },
+  "title": "LACE-TRIMMED POINTELLE T-SHIRT",
+  "price": "Rs.799.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.283Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c99"
+  },
+  "title": "BOUCLÉ JERSEY WAISTCOAT",
+  "price": "Rs.1,499.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.301Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c9a"
+  },
+  "title": "PICOT-TRIMMED VEST TOP",
+  "price": "Rs.799.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.320Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c9b"
+  },
+  "title": "FRILL-TRIMMED POINTELLE-KNIT TOP",
+  "price": "Rs.1,499.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c9c"
+  },
+  "title": "BUTTON-FRONT SWEATER VEST",
+  "price": "Rs.2,999.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c9d"
+  },
+  "title": "POLO SHIRT",
+  "price": "Rs.999.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c9e"
+  },
+  "title": "FITTED T-SHIRT",
+  "price": "Rs.799.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697c9f"
+  },
+  "title": "KNITTED T-SHIRT",
+  "price": "Rs.1,499.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca0"
+  },
+  "title": "BOXY T-SHIRT",
+  "price": "Rs.999.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca1"
+  },
+  "title": "COTTON T-SHIRT",
+  "price": "Rs.399.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca2"
+  },
+  "title": "CROPPED VEST TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca3"
+  },
+  "title": "RIB-KNIT OFF-THE-SHOULDER TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca4"
+  },
+  "title": "BRODERIE ANGLAISE-DETAIL RIBBED TOP",
+  "price": "Rs.1,299.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca5"
+  },
+  "title": "RIBBED VEST TOP",
+  "price": "Rs.699.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6866289211490d2e60697ca6"
+  },
+  "title": "OVERSIZED POLO SWEATSHIRT",
+  "price": "Rs.1,899.00",
+  "timestamp": {
+    "$date": "2025-07-03T12:22:02.775Z"
+  }
+}]
